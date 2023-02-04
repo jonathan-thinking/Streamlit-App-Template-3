@@ -12,7 +12,7 @@ Additional dependencies listed in the requirements document
 To use the template, simply clone the repository to your local machine:
 
 ```
-git clone https://github.com/[username]/streamlit-app-template.git
+git clone https://github.com/jonathan-thinking/streamlit-app-template.git
 ```
 
 Next, navigate to the repository directory and build the Docker image:
